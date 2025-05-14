@@ -1,0 +1,5 @@
+# Example sites to check
+https://www.google.com
+https://www.rust-lang.org
+https://example.com
+https://thisurldoesnotexist.abc

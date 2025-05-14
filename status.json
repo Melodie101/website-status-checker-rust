@@ -1,0 +1,14 @@
+[
+{
+    "url": "https://example.com",
+    "status": 200,
+    "response_time_ms": 45,
+    "timestamp": "1747231307"
+},
+{
+    "url": "https://www.google.com",
+    "status": 200,
+    "response_time_ms": 84,
+    "timestamp": "1747231307"
+}
+]
