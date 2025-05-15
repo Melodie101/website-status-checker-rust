@@ -1,5 +1,60 @@
-# Example sites to check
+# Common sites
 https://www.google.com
 https://www.rust-lang.org
 https://example.com
 https://thisurldoesnotexist.abc
+
+# Popular
+https://www.github.com
+https://www.stackoverflow.com
+https://www.reddit.com
+https://www.wikipedia.org
+https://www.youtube.com
+https://www.amazon.com
+https://www.apple.com
+https://www.microsoft.com
+https://www.netflix.com
+https://www.linkedin.com
+https://www.twitter.com
+https://www.instagram.com
+https://www.twitch.tv
+https://www.nytimes.com
+https://www.bbc.com
+https://www.cnn.com
+
+# Education
+https://www.harvard.edu
+https://www.mit.edu
+https://www.stanford.edu
+https://www.berkeley.edu
+https://www.coursera.org
+https://www.khanacademy.org
+https://ocw.mit.edu
+https://www.udemy.com
+https://www.edx.org
+
+# Government
+https://www.usa.gov
+https://www.nasa.gov
+https://www.whitehouse.gov
+https://www.fbi.gov
+https://www.cdc.gov
+
+# Tech / Developer
+https://www.mozilla.org
+https://www.python.org
+https://www.nodejs.org
+https://www.w3.org
+https://crates.io
+https://docs.rs
+https://doc.rust-lang.org
+https://lib.rs
+https://www.gnu.org
+https://git-scm.com
+https://www.jetbrains.com
+https://openai.com
+
+# Invalid or unreachable (test failures)
+https://nonexistent.openai.com
+https://this-is-fake-url.fake
+https://invalid-url-123.abc
